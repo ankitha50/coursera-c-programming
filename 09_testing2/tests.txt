@@ -1,15 +1,24 @@
 aaaaa bbbbb
 aaaaa bbbbc
-aaabb bbbbc
-aabbb aabbb
-a     b
-aabcc ddeef
-aaabb bbbcd
-aabbc aabcd
-$$$aa aabcd
-aaaaaa bbbbb
+aaaaa bbbcc
+aaaaa bbccc
+aaaaa bcccc
+aaaaa ccccc
+aaaab bbbbb
+aaaab bbbbc
+aaaab bbbcc
+aaaab bbccc
+aaaab bcccc
+aaaab ccccc
+aaabb bbccc
+aaabc bbccc
+aaaa bbbbb
 aaaaa bbbb
-12344 1223444
-a bcd c  ef
+aaa bbb ccc
 a
-abbbc aaabb
+13333 ? ???
+aaaaa bbbbbb
+üüüüö uuuua
+aaaaA aaaaa
+aabcd aabbb
+abcde fghij
