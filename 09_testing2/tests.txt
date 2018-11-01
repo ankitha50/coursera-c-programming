@@ -1,0 +1,15 @@
+aaaaa bbbbb
+aaaaa bbbbc
+aaabb bbbbc
+aabbb aabbb
+a     b
+aabcc ddeef
+aaabb bbbcd
+aabbc aabcd
+$$$aa aabcd
+aaaaaa bbbbb
+aaaaa bbbb
+12344 1223444
+a bcd c  ef
+a
+abbbc aaabb
