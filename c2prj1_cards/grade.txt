@@ -1,0 +1,7 @@
+Grading at Wed Nov  7 14:02:50 UTC 2018
+Compiling cards.c
+Testing card_from_letters
+Invalid suit letter: c
+Failed
+
+Overall Grade: FAILED
