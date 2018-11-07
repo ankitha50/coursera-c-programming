@@ -91,7 +91,7 @@ card_t card_from_letters(char value_let, char suit_let) {
       break;
     }
   }
-  if (temp.value == NUM_SUITS) {
+  if (temp.suit == NUM_SUITS) {
     printf("Invalid suit letter: %c\n", suit_let);
     exit(EXIT_FAILURE);
   }
